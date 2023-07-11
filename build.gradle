@@ -6,7 +6,7 @@ plugins {
 }
 
 allprojects {
-  group = ""
+  group = "lost.test-playwright"
   version = "0.0.1"
 
   repositories {

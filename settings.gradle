@@ -9,5 +9,6 @@ pluginManagement {
   }
 }
 
-rootProject.name = ""
+rootProject.name = "test-playwright"
+include 'app'
 
